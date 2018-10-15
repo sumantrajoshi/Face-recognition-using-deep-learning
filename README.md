@@ -21,7 +21,7 @@ Here we are using OpenFace pre-trained model for facial recognition. Without goi
 You can view the application demonstration on Youtube at following link: https://youtu.be/aUYtG2aEKSY
 
 ## Medium Article
-To better understand the face recognition using deep learning, you can read my Medium article at : 
+To better understand the face recognition using deep learning, you can read my Medium article at : https://medium.com/@sumantrajoshi/face-recognizer-application-using-a-deep-learning-model-python-and-keras-2873e9aa6ab3
 
 
 
